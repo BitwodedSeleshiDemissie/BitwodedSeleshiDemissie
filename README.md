@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi 👋, I'm Bitwoded Seleshi Demissie  
   <br>
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="120" alt="Rocket Launch"/>
+  <img src="https://media.giphy.com/media/26xBEamXwaMSUbV72/giphy.gif" width="120" alt="Rocket Launch"/>
 </h1>
 
 <p align="center">
