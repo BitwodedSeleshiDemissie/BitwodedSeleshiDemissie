@@ -11,29 +11,39 @@
 **Politecnico di Torino, Italy** 🇮🇹  
 
 📚 I am currently pursuing a **Master’s in Data Science & Data Engineering**,  
-continuing my journey to become a well-rounded data-driven problem solver.  
+deepening my expertise in data-driven technologies and advanced analytics.  
 
 🌱 I’m passionate about:
 - Data Science, Machine Learning, and Big Data technologies  
-- Web & software development  
-- Building impactful solutions with modern tools and frameworks  
+- Full-stack development and modern web apps  
+- Deploying real-world applications to the cloud  
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **Languages**: Python, JavaScript, HTML, CSS  
-- **Data Science & ML**: Pandas, NumPy, scikit-learn, TensorFlow *(add others you use)*  
-- **Frameworks & Libraries**: React, Node.js, Express  
-- **Databases**: MongoDB, SQLite, PostgreSQL  
-- **Other Tools**: Git, GitHub, Docker, VS Code  
+### 👨‍💻 Languages
+- Python, JavaScript, HTML, CSS, Java  
+
+### 📊 Data Science & ML
+- Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, FastAI, MATLAB  
+
+### 🧩 Frameworks & Libraries
+- React, Node.js, Express  
+
+### 🗄️ Databases
+- MongoDB, SQLite, PostgreSQL, NoSQL  
+
+### ⚙️ Tools & Platforms
+- Git, GitHub, Docker  
+- Hosting & Deployment: **Render**, **Vercel**, **Heroku**  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 [bittatech](https://github.com/BitwodedSeleshiDemissie/bittatech)
-> A JavaScript-based project showcasing [add a short description—what it does].  
+> A JavaScript-based project showcasing [short description].  
 **Tech stack:** JavaScript, HTML, CSS  
 
 ---
@@ -44,7 +54,7 @@ continuing my journey to become a well-rounded data-driven problem solver.
 
 ---
 
-*(Add more repos here as you grow — especially any Data Science/ML projects to match your Master’s studies.)*
+*(Add more repos here as you grow — especially any Data Science/ML projects to highlight your Master’s studies.)*
 
 ---
 
