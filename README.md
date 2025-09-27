@@ -25,10 +25,7 @@
 
 <p align="center">
   <!-- Rocket -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJrNHZsMDlvZDVueG4xM2p5NHAxN3U2bGd4M2xxc2hqZXpoODFuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z8YJDrT2OG1Og/giphy.gif" width="120" alt="Rocket Launch"/>
-  
-  <!-- Formula 1 / Car -->
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODh1eDNhaXdxYWZ1ZzRldWhzcTMzNDA3cnhqOGM0d2h0MXp4NWJtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YknAouVrcbkiDvWUOR/giphy.gif" width="120" alt="Formula 1 Car"/>
+  <img src="https://media.giphy.com/media/26xBEamXwaMSUbV72/giphy.gif" width="120" alt="Rocket Launch"/>
   
   <!-- Astronomy / Space -->
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVoZzM5YjBxcmd5aXNlcjdtaGcybzB2ajM0Y3RxZzRlcHJlbnRhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4rclkSSrNGSlFK/giphy.gif" width="120" alt="Astronomy"/>
@@ -38,6 +35,9 @@
   
   <!-- Math / Equations -->
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXc3bzRkY2cwanJtcnhiMXR3dDlxMmhrbTN1MDRsYnhmYWhzcHBzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPbnEgxsPJOJSD3qfr/giphy.gif" width="120" alt="Math Equations"/>
+  
+  <!-- Formula 1 / Car -->
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODh1eDNhaXdxYWZ1ZzRldWhzcTMzNDA3cnhqOGM0d2h0MXp4NWJtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YknAouVrcbkiDvWUOR/giphy.gif" width="120" alt="Formula 1 Car"/>
 </p>
 
 ---
