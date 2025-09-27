@@ -12,6 +12,9 @@
 - 🌱 Passionate about data science, machine learning, and full-stack web apps  
 - ⚡ Skilled in **Python, JavaScript, React, Flask, SQL/NoSQL, ML frameworks**  
 - 🚀 Can deploy apps on **Render, Vercel, and Heroku**  
+- 🏎️ Formula 1 enthusiast and fascinated by speed, engineering, and innovation  
+- 🌌 Deeply interested in the advancement of humanity as a spacefaring species  
+- ✨ Huge admirer of **SpaceX** and the groundbreaking work of scientists pushing space exploration forward  
 
 ---
 
