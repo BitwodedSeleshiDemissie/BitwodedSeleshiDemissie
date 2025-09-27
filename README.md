@@ -10,14 +10,14 @@
 
 ## 🧭 About Me
 
-- 🎓 Bachelor’s in **Computer Engineering** @ **Politecnico di Torino** (Italy’s top-ranked engineering university 🇮🇹)  
+- 🎓 Bachelor’s in **Computer Engineering** @ **Politecnico di Torino**  
 - 📚 Master’s student in **Data Science & Data Engineering** @ **Politecnico di Torino**  
 - 🌱 Passionate about data science, machine learning, and full-stack web apps  
 - ⚡ Skilled in **Python, JavaScript, React, Flask, SQL/NoSQL, ML frameworks**  
-- 🚀 Can deploy apps on **Render, Vercel, and Heroku**  
-- 🏎️ Formula 1 enthusiast and fascinated by speed, engineering, and innovation  
-- 🌌 Deeply interested in the advancement of humanity as a spacefaring species  
-- ✨ Huge admirer of **SpaceX** and the groundbreaking work of scientists pushing space exploration forward  
+- 🚀 Deploy apps on **Render, Vercel, Heroku**  
+- 🏎️ Formula 1 enthusiast  
+- 🌌 Deep interest in space, exploration, astronomy  
+- ✨ Big fan of science, neural nets, math  
 
 ---
 
@@ -25,28 +25,28 @@
 
 <p align="center">
   <!-- Rocket -->
-  <img src="https://media.giphy.com/media/26xBEamXwaMSUbV72/giphy.gif" width="120" alt="Rocket Launch"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJrNHZsMDlvZDVueG4xM2p5NHAxN3U2bGd4M2xxc2hqZXpoODFuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z8YJDrT2OG1Og/giphy.gif" width="120" alt="Rocket Launch"/>
   
-  <!-- Formula 1 -->
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120" alt="Formula 1 Car"/>
+  <!-- Formula 1 / Car -->
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODh1eDNhaXdxYWZ1ZzRldWhzcTMzNDA3cnhqOGM0d2h0MXp4NWJtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YknAouVrcbkiDvWUOR/giphy.gif" width="120" alt="Formula 1 Car"/>
   
-  <!-- Astronomy -->
-  <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="120" alt="Astronomy"/>
+  <!-- Astronomy / Space -->
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVoZzM5YjBxcmd5aXNlcjdtaGcybzB2ajM0Y3RxZzRlcHJlbnRhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4rclkSSrNGSlFK/giphy.gif" width="120" alt="Astronomy"/>
   
-  <!-- Neural Networks -->
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="120" alt="Neural Network"/>
+  <!-- Neural Networks / AI -->
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJucW5pbjhxYzJ1ejlseGtsMjVwbGtreDl0Z3luYmNoaGg3dm9rcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTfWjqMBgcZW4w4WFq/giphy.gif" width="120" alt="Neural Network"/>
   
-  <!-- Math -->
-  <img src="https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif" width="120" alt="Math Equations"/>
+  <!-- Math / Equations -->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXc3bzRkY2cwanJtcnhiMXR3dDlxMmhrbTN1MDRsYnhmYWhzcHBzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPbnEgxsPJOJSD3qfr/giphy.gif" width="120" alt="Math Equations"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔹 [**YesTravel-Company**](https://github.com/BitwodedSeleshiDemissie/YesTravel-Company) – Full-stack travel web app, which I later deployed on Render for some time.  
-- 🔹 [**bittatech**](https://github.com/BitwodedSeleshiDemissie/bittatech) – JavaScript-based project  
-- 🔹 [**quiz**](https://github.com/BitwodedSeleshiDemissie/quiz) – Interactive quiz app in JavaScript  
+- 🔹 [**YesTravel-Company**](https://github.com/BitwodedSeleshiDemissie/YesTravel-Company) – Full-stack travel web app  
+- 🔹 [**bittatech**](https://github.com/BitwodedSeleshiDemissie/bittatech) – JavaScript project  
+- 🔹 [**quiz**](https://github.com/BitwodedSeleshiDemissie/quiz) – Interactive quiz in JS  
 
 ---
 
@@ -55,5 +55,3 @@
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitwodedSeleshiDemissie&layout=compact&theme=radical" />
 </p>
-
----
