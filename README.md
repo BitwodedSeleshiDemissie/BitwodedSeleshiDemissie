@@ -20,7 +20,7 @@
 
 ## 🚀 Featured Projects
 
-- 🔹 [**YesTravel-Company**](https://github.com/BitwodedSeleshiDemissie/YesTravel-Company) – Full-stack travel web app (React + Flask)  
+- 🔹 [**YesTravel-Company**](https://github.com/BitwodedSeleshiDemissie/YesTravel-Company) – Full-stack travel web app, which I later deployed on Render for some time.
 - 🔹 [**bittatech**](https://github.com/BitwodedSeleshiDemissie/bittatech) – JavaScript-based project  
 - 🔹 [**quiz**](https://github.com/BitwodedSeleshiDemissie/quiz) – Interactive quiz app in JavaScript  
 
