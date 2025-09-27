@@ -23,6 +23,27 @@
 
 ---
 
+## 🎯 Interests
+
+<p align="center">
+  <!-- Rocket / Spaceflight -->
+  <img src="https://media.giphy.com/media/26xBEamXwaMSUbV72/giphy.gif" width="120" alt="Rocket Launch"/>
+  
+  <!-- Formula 1 -->
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120" alt="Formula 1 Car"/>
+  
+  <!-- Astronomy -->
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="120" alt="Astronomy"/>
+  
+  <!-- Neural Networks -->
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120" alt="Neural Network"/>
+  
+  <!-- Math -->
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="120" alt="Math"/>
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 - 🔹 [**YesTravel-Company**](https://github.com/BitwodedSeleshiDemissie/YesTravel-Company) – Full-stack travel web app, which I later deployed on Render for some time.  
