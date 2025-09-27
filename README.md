@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Bitwoded Seleshi Demissie
+  Hi 👋, I'm BIT
 </h1>
 
 <p align="center">
