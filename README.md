@@ -8,7 +8,7 @@
 ## 🧭 About Me
 
 - 🎓 Bachelor’s in **Computer Engineering** @ **Politecnico di Torino** (Italy’s top-ranked engineering university 🇮🇹)  
-- 📚 Master’s in **Data Science & Data Engineering** @ **Politecnico di Torino** (engineering rank #1 in Italy)  
+- 📚 Master’s in **Data Science & Data Engineering** @ **Politecnico di Torino**  
 - 🌱 Passionate about data science, machine learning, and full-stack web apps  
 - ⚡ Skilled in **Python, JavaScript, React, Flask, SQL/NoSQL, ML frameworks**  
 - 🚀 Can deploy apps on **Render, Vercel, and Heroku**  
