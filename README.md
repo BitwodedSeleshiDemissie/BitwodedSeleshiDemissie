@@ -10,7 +10,7 @@
 
 ## 🧭 About Me
 
-- 🎓 Bachelor’s in **Computer Engineering** @ **Politecnico di Torino**  
+- 🎓 Bachelor’s in **Computer Engineering** @ **Politecnico di Torino** (Italy’s top-ranked engineering university 🇮🇹)  
 - 📚 Master’s student in **Data Science & Data Engineering** @ **Politecnico di Torino**  
 - 🌱 Passionate about data science, machine learning, and full-stack web apps  
 - ⚡ Skilled in **Python, JavaScript, React, Flask, SQL/NoSQL, ML frameworks**  
@@ -28,16 +28,16 @@
   <img src="https://media.giphy.com/media/26xBEamXwaMSUbV72/giphy.gif" width="120" alt="Rocket Launch"/>
   
   <!-- Astronomy / Space -->
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVoZzM5YjBxcmd5aXNlcjdtaGcybzB2ajM0Y3RxZzRlcHJlbnRhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4rclkSSrNGSlFK/giphy.gif" width="120" alt="Astronomy"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="120" alt="Astronomy"/>
   
   <!-- Neural Networks / AI -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJucW5pbjhxYzJ1ejlseGtsMjVwbGtreDl0Z3luYmNoaGg3dm9rcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTfWjqMBgcZW4w4WFq/giphy.gif" width="120" alt="Neural Network"/>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="120" alt="Neural Network"/>
   
   <!-- Math / Equations -->
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXc3bzRkY2cwanJtcnhiMXR3dDlxMmhrbTN1MDRsYnhmYWhzcHBzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPbnEgxsPJOJSD3qfr/giphy.gif" width="120" alt="Math Equations"/>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="120" alt="Math Equations"/>
   
   <!-- Formula 1 / Car -->
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODh1eDNhaXdxYWZ1ZzRldWhzcTMzNDA3cnhqOGM0d2h0MXp4NWJtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YknAouVrcbkiDvWUOR/giphy.gif" width="120" alt="Formula 1 Car"/>
+  <img src="https://media.giphy.com/media/YknAouVrcbkiDvWUOR/giphy.gif" width="120" alt="Formula 1 Car"/>
 </p>
 
 ---
