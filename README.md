@@ -26,7 +26,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=BitwodedSeleshiDemissie&show_icons=true&theme=radical" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitwodedSeleshiDemissie&layout=compact&theme=radical" />
 </p>
 
