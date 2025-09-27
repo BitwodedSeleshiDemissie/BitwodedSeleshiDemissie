@@ -1,7 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Bitwoded Seleshi Demissie  
-  <br>
-  <img src="https://media.giphy.com/media/26xBEamXwaMSUbV72/giphy.gif" width="120" alt="Rocket Launch"/>
+  Hi 👋, I'm Bitwoded Seleshi Demissie
 </h1>
 
 <p align="center">
@@ -26,20 +24,20 @@
 ## 🎯 Interests
 
 <p align="center">
-  <!-- Rocket / Spaceflight -->
+  <!-- Rocket -->
   <img src="https://media.giphy.com/media/26xBEamXwaMSUbV72/giphy.gif" width="120" alt="Rocket Launch"/>
   
   <!-- Formula 1 -->
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120" alt="Formula 1 Car"/>
   
   <!-- Astronomy -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="120" alt="Astronomy"/>
+  <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="120" alt="Astronomy"/>
   
   <!-- Neural Networks -->
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120" alt="Neural Network"/>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="120" alt="Neural Network"/>
   
   <!-- Math -->
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="120" alt="Math"/>
+  <img src="https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif" width="120" alt="Math Equations"/>
 </p>
 
 ---
