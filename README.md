@@ -1,19 +1,7 @@
 <h1 align="center">
-  <svg viewBox="0 0 800 120" width="800" height="120">
-    <!-- Your name -->
-    <text x="0" y="80" font-size="36" font-weight="bold" fill="white">Bitwoded Seleshi Demissie</text>
-
-    <!-- Path across the name -->
-    <path id="line" d="M 0 80 L 720 80" stroke="transparent" fill="none" />
-
-    <!-- Rocket traveling -->
-    <text font-size="32">
-      <textPath href="#line" startOffset="0%">
-        🚀
-        <animate attributeName="startOffset" from="0%" to="100%" dur="25s" repeatCount="indefinite"/>
-      </textPath>
-    </text>
-  </svg>
+  Hi 👋, I'm Bitwoded Seleshi Demissie  
+  <br>
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="120" alt="Rocket Launch"/>
 </h1>
 
 <p align="center">
