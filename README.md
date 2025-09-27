@@ -30,9 +30,6 @@
   <!-- Formula 1 / Car -->
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODh1eDNhaXdxYWZ1ZzRldWhzcTMzNDA3cnhqOGM0d2h0MXp4NWJtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YknAouVrcbkiDvWUOR/giphy.gif" width="120" alt="Formula 1 Car"/>
   
-  <!-- Astronomy / Space -->
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVoZzM5YjBxcmd5aXNlcjdtaGcybzB2ajM0Y3RxZzRlcHJlbnRhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4rclkSSrNGSlFK/giphy.gif" width="120" alt="Astronomy"/>
-  
   <!-- Neural Networks / AI -->
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJucW5pbjhxYzJ1ejlseGtsMjVwbGtreDl0Z3luYmNoaGg3dm9rcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTfWjqMBgcZW4w4WFq/giphy.gif" width="120" alt="Neural Network"/>
   
