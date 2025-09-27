@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bitwoded Seleshi Demissie</h1>
 <p align="center">
-  💻 Developer | 📊 Data Science Enthusiast | 🚀 Lifelong Learner
+  💻 Developer | 📊 Data Science Enthusiast | 🚀 Lifelong Learner | Matimatics Fan
 </p>
 
 ---
@@ -27,9 +27,6 @@ deepening my expertise in data-driven technologies and advanced analytics.
 
 ### 📊 Data Science & ML
 - Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, FastAI, MATLAB  
-
-### 🧩 Frameworks & Libraries
-- React, Node.js, Express  
 
 ### 🗄️ Databases
 - MongoDB, SQLite, PostgreSQL, NoSQL  
