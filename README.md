@@ -1,57 +1,25 @@
 <h1 align="center">Hi 👋, I'm Bitwoded Seleshi Demissie</h1>
 <p align="center">
-  💻 Developer | 📊 Data Science Enthusiast | 🚀 Lifelong Learner | Matimatics Fan
+  💻 Developer | 📊 Data Science Enthusiast | 🚀 Lifelong Learner
 </p>
 
 ---
 
 ## 🧭 About Me
 
-🎓 I hold a **Bachelor’s Degree in Computer Engineering** from the prestigious  
-**Politecnico di Torino, Italy** 🇮🇹  
-
-📚 I am currently pursuing a **Master’s in Data Science & Data Engineering**,  
-deepening my expertise in data-driven technologies and advanced analytics.  
-
-🌱 I’m passionate about:
-- Data Science, Machine Learning, and Big Data technologies  
-- Full-stack development and modern web apps  
-- Deploying real-world applications to the cloud  
-
----
-
-## 🛠️ Skills & Tools
-
-### 👨‍💻 Languages
-- Python, JavaScript, HTML, CSS, Java  
-
-### 📊 Data Science & ML
-- Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, FastAI, MATLAB  
-
-### 🗄️ Databases
-- MongoDB, SQLite, PostgreSQL, NoSQL  
-
-### ⚙️ Tools & Platforms
-- Git, GitHub, Docker  
-- Hosting & Deployment: **Render**, **Vercel**, **Heroku**  
+- 🎓 Bachelor’s in **Computer Engineering** @ **Politecnico di Torino** (Italy’s top-ranked engineering university 🇮🇹)  
+- 📚 Master’s in **Data Science & Data Engineering** @ **Politecnico di Torino** (engineering rank #1 in Italy)  
+- 🌱 Passionate about data science, machine learning, and full-stack web apps  
+- ⚡ Skilled in **Python, JavaScript, React, Flask, SQL/NoSQL, ML frameworks**  
+- 🚀 Can deploy apps on **Render, Vercel, and Heroku**  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 [bittatech](https://github.com/BitwodedSeleshiDemissie/bittatech)
-> A JavaScript-based project showcasing [short description].  
-**Tech stack:** JavaScript, HTML, CSS  
-
----
-
-### 🔹 [quiz](https://github.com/BitwodedSeleshiDemissie/quiz)
-> An interactive quiz application built with JavaScript.  
-**Tech stack:** JavaScript, HTML, CSS  
-
----
-
-*(Add more repos here as you grow — especially any Data Science/ML projects to highlight your Master’s studies.)*
+- 🔹 [**YesTravel-Company**](https://github.com/BitwodedSeleshiDemissie/YesTravel-Company) – Full-stack travel web app (React + Flask)  
+- 🔹 [**bittatech**](https://github.com/BitwodedSeleshiDemissie/bittatech) – JavaScript-based project  
+- 🔹 [**quiz**](https://github.com/BitwodedSeleshiDemissie/quiz) – Interactive quiz app in JavaScript  
 
 ---
 
@@ -63,16 +31,3 @@ deepening my expertise in data-driven technologies and advanced analytics.
 </p>
 
 ---
-
-## 🤝 Connect with Me
-
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-username)  
-- 🐦 Twitter: [@YourHandle](https://twitter.com/yourhandle)  
-- 📧 Email: **[your-email-here]**  
-- 🌐 Portfolio: *Coming soon!*  
-
----
-
-<p align="center">
-  ✨ _“Data is the new oil, but insight is the new gold.”_ ✨
-</p>
