@@ -38,13 +38,20 @@
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
-- 🔹 [**CSR Epidemic Spread via Air Travel**](https://github.com/BitwodedSeleshiDemissie/Epidemic-Spreading-via-CSR) – Epidemic modeling on air traffic networks using sparse matrix–vector multiplication (CSR format) with animated simulations 🌍✈️  
-- 🔹 [**YesTravel-Company**](https://github.com/BitwodedSeleshiDemissie/YesTravel-Company) – Full-stack travel web app  
-- 🔹 [**bittatech**](https://github.com/BitwodedSeleshiDemissie/bittatech) – JavaScript project  
-- 🔹 [**quiz**](https://github.com/BitwodedSeleshiDemissie/quiz) – Interactive quiz in JS  
+- 🔹 [**CSR Epidemic Spread via Air Travel**](https://github.com/BitwodedSeleshiDemissie/Epidemic-Spreading-via-CSR)  
+  *Python, NumPy, Matplotlib* – Epidemic modeling on air traffic networks using sparse matrix–vector multiplication (CSR format) with animated simulations 🌍✈️  
+
+- 🔹 [**YesTravel-Company**](https://github.com/BitwodedSeleshiDemissie/YesTravel-Company)  
+  *JavaScript, React, Node.js, Express, MongoDB* – Full-stack travel web app for booking and exploring destinations 🧳🌐  
+
+- 🔹 [**bittatech**](https://github.com/BitwodedSeleshiDemissie/bittatech)  
+  *JavaScript, HTML, CSS* – Modern front-end project with interactive UI 💻✨  
+
+- 🔹 [**quiz**](https://github.com/BitwodedSeleshiDemissie/quiz)  
+  *JavaScript, HTML, CSS* – Fun and interactive browser-based quiz game 🎮🧠  
+
 
 ---
 
