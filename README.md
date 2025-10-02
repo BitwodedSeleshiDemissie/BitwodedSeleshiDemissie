@@ -1,6 +1,7 @@
 <h1 align="center">
-  Hi 👋, I'm BIT
+  Hi 👋, I'm BIT 🌱
 </h1>
+
 
 <p align="center">
   💻 Developer | 📊 Data Science Enthusiast | 🚀 Lifelong Learner
