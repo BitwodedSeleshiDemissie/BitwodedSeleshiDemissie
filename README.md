@@ -41,6 +41,7 @@
 
 ## 🚀 Featured Projects
 
+- 🔹 [**CSR Epidemic Spread via Air Travel**](https://github.com/BitwodedSeleshiDemissie/Epidemic-Spreading-via-CSR) – Epidemic modeling on air traffic networks using sparse matrix–vector multiplication (CSR format) with animated simulations 🌍✈️  
 - 🔹 [**YesTravel-Company**](https://github.com/BitwodedSeleshiDemissie/YesTravel-Company) – Full-stack travel web app  
 - 🔹 [**bittatech**](https://github.com/BitwodedSeleshiDemissie/bittatech) – JavaScript project  
 - 🔹 [**quiz**](https://github.com/BitwodedSeleshiDemissie/quiz) – Interactive quiz in JS  
