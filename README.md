@@ -52,6 +52,10 @@
 - 🔹 [**quiz**](https://github.com/BitwodedSeleshiDemissie/quiz)  
   *JavaScript, HTML, CSS* – Fun and interactive browser-based quiz game 🎮🧠  
 
+- 🔹 [**PriceNotifier_App**](https://github.com/BitwodedSeleshiDemissie/PriceNotifier_App)  
+  *Python, Selenium, BeautifulSoup, Twilio* – Crypto price monitoring app that scrapes market data and sends WhatsApp alerts when thresholds are met 📈📲  
+
+
 
 ---
 
