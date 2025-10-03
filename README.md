@@ -44,6 +44,9 @@
 - 🔹 [**CSR Epidemic Spread via Air Travel**](https://github.com/BitwodedSeleshiDemissie/Epidemic-Spreading-via-CSR)  
   *Python, NumPy, Matplotlib* – Epidemic modeling on air traffic networks using sparse matrix–vector multiplication (CSR format) with animated simulations 🌍✈️  
 
+- 🔹 [**Milano Air Quality Analysis**](https://github.com/BitwodedSeleshiDemissie/milano-air-quality-analysis)  
+  *Python, Pandas, Matplotlib* – Analysis of air quality data (PM10, NO2, O3) from Regione Lombardia. Includes pollutant trend visualizations and detection of “bad air days” 🌆🌍  
+
 - 🔹 [**YesTravel-Company**](https://github.com/BitwodedSeleshiDemissie/YesTravel-Company)  
   *JavaScript, React, Node.js, Express, MongoDB* – Full-stack travel web app for booking and exploring destinations 🧳🌐  
 
