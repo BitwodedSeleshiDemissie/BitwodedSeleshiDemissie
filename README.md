@@ -38,8 +38,10 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXc3bzRkY2cwanJtcnhiMXR3dDlxMmhrbTN1MDRsYnhmYWhzcHBzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPbnEgxsPJOJSD3qfr/giphy.gif" width="120" alt="Math Equations"/>
 </p>
 
----
-## 🚀 Featured Projects
+---## 🚀 Featured Projects
+
+- 🔹 [**The Typical Look Within a Group**](https://github.com/BitwodedSeleshiDemissie/The-Typical-Look-Within-a-Group-Statistical-Face-Modeling-Using-PCA)  
+  *Python, NumPy, OpenCV, Matplotlib* – Statistical face modeling using PCA to extract the mean face and eigenfaces. Demonstrates how linear algebra reveals the “typical look” within a group of human faces 🧠📸  
 
 - 🔹 [**CSR Epidemic Spread via Air Travel**](https://github.com/BitwodedSeleshiDemissie/Epidemic-Spreading-via-CSR)  
   *Python, NumPy, Matplotlib* – Epidemic modeling on air traffic networks using sparse matrix–vector multiplication (CSR format) with animated simulations 🌍✈️  
