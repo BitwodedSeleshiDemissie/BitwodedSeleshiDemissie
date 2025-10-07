@@ -17,7 +17,7 @@
 - ⚡ Skilled in **Python, JavaScript, React, Flask, SQL/NoSQL, ML frameworks**  
 - 🚀 Deploy apps on **Render, Vercel, Heroku**  
 - 🏎️ Formula 1 enthusiast  
-- 🌌 Deep interest in space, exploration, astronomy  
+- 🌌 Deep interest in space, exploration, astronomy, Advancement of our civilization 
 - ✨ Big fan of science, neural nets, math  
 
 ---
