@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm BIT 🌱
+  Hi 👋, I'm BIT 
 </h1>
 
 
