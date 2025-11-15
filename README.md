@@ -37,7 +37,7 @@
 
 ## 🚀 Featured Projects
 
-- 🔹 [**WizFriends**](https://github.com/BitwodedSeleshiDemissie/WizFriendsss)  
+- 🔹 [**WizFriends/ Startup**](https://github.com/BitwodedSeleshiDemissie/WizFriendsss)  
   *Technologies: React, Node.js, Express, MongoDB, AI* – **WizFriends** is a social discovery platform designed to help users find local activities, join or create community events, and connect with like-minded people. Features include AI-generated activity ideas, GPS-based event discovery, and the ability to join recurring community groups. Perfect for reducing loneliness and helping people build real, recurring connections when they move to a new place or live away from home 🌍👫  
 
 - 🔹 [**The Typical Look Within a Group**](https://github.com/BitwodedSeleshiDemissie/The-Typical-Look-Within-a-Group-Statistical-Face-Modeling-Using-PCA)  
