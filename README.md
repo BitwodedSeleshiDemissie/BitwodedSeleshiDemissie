@@ -78,7 +78,7 @@
 ## 🧑‍💻 Contact & Socials
 
 - **GitHub**: [@BitwodedSeleshiDemissie](https://github.com/BitwodedSeleshiDemissie)
-- **LinkedIn**: [@BitwodedSeleshiDemissie](https://www.linkedin.com/in/bitwodedseleshidemissie)  
+- **LinkedIn**: [BitwodedSeleshiDemissie](https://www.linkedin.com/in/bitwodedseleshidemissie)  
 - **Email**: [bitwoded@example.com](mailto:bitwoded@example.com)
 
 
