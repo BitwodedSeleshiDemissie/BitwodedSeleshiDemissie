@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  💻 Developer | 📊 Data Science Enthusiast | 🚀 Lifelong Learner
+  💻 Developer | 📊 Data Science/Machinelearning Engineer | 🚀 Lifelong Learner
 </p>
 
 ---
