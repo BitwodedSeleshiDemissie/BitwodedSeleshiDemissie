@@ -37,7 +37,7 @@
 
 ## 🚀 Featured Projects
 
-- 🔹 [**WizFriends/ Startup**](https://github.com/BitwodedSeleshiDemissie/WizFriendsss)  
+- 🔹 [**WizFriends/ Startup-currently in stealth mode **](https://github.com/BitwodedSeleshiDemissie/WizFriendsss)  
   *Technologies: React, Node.js, Express, MongoDB, AI* – **WizFriends** is a social discovery platform designed to help users find 'Home' in a new approach  
 
 - 🔹 [**The Typical Look Within a Group**](https://github.com/BitwodedSeleshiDemissie/The-Typical-Look-Within-a-Group-Statistical-Face-Modeling-Using-PCA)  
