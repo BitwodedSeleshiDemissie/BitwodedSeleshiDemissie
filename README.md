@@ -4,6 +4,7 @@
 
 <p align="center">
   💻 Developer | 📊 Data Science/Machine learning Engineer | 🚀 Lifelong Learner
+  A great engineering product one is not the most sophosticated one, but the one that is able to solve the task in the simplest way possible.
 </p>
 
 ---
