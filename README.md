@@ -38,21 +38,21 @@
 
 ## 🚀 Featured Projects
 - 🔹 [**JARVIS**](https://github.com/BitwodedSeleshiDemissie/JARVIS)  
-  *Technologies: Python, AI, Automation* – A personal AI assistant designed to streamline workflows and automate daily tasks. Built with a focus on modularity and intuitive interaction. 🦾🎤
+  *Technologies: Python, AI, Automation* – A personal AI assistant designed to streamline workflows and automate daily tasks. Built with a focus on modularity and intuitive interaction. 
 - 🔹 [**WizFriends/ Startup-currently in stealth mode**](https://github.com/BitwodedSeleshiDemissie/WizFriendsss)  
   *Technologies: React, Node.js, Express, MongoDB, AI* – **WizFriends** is a social discovery platform designed to help users find 'Home' in a new approach  
 
 - 🔹 [**The Typical Look Within a Group**](https://github.com/BitwodedSeleshiDemissie/The-Typical-Look-Within-a-Group-Statistical-Face-Modeling-Using-PCA)  
-  *Python, NumPy, OpenCV, Matplotlib* – Statistical face modeling using PCA to extract the mean face and eigenfaces. Demonstrates how linear algebra reveals the “typical look” within a group of human faces 🧠📸  
+  *Python, NumPy, OpenCV, Matplotlib* – Statistical face modeling using PCA to extract the mean face and eigenfaces. Demonstrates how linear algebra reveals the “typical look” within a group of human faces 
 
 - 🔹 [**CSR Epidemic Spread via Air Travel**](https://github.com/BitwodedSeleshiDemissie/Epidemic-Spreading-via-CSR)  
-  *Python, NumPy, Matplotlib* – Epidemic modeling on air traffic networks using sparse matrix–vector multiplication (CSR format) with animated simulations 🌍✈️  
+  *Python, NumPy, Matplotlib* – Epidemic modeling on air traffic networks using sparse matrix–vector multiplication (CSR format) with animated simulations 
 
 - 🔹 [**Milano Air Quality Analysis**](https://github.com/BitwodedSeleshiDemissie/milano-air-quality-analysis)  
-  *Python, Pandas, Matplotlib* – Analysis of air quality data (PM10, NO2, O3) from Regione Lombardia. Includes pollutant trend visualizations and detection of “bad air days” 🌆🌍  
+  *Python, Pandas, Matplotlib* – Analysis of air quality data (PM10, NO2, O3) from Regione Lombardia. Includes pollutant trend visualizations and detection of “bad air days” 
 
 - 🔹 [**YesTravel-Company**](https://github.com/BitwodedSeleshiDemissie/YesTravel-Company)  
-  *JavaScript, React, Node.js, Express, MongoDB* – Full-stack travel web app for booking and exploring destinations 🧳🌐  
+  *JavaScript, React, Node.js, Express, MongoDB* – Full-stack travel web app for booking and exploring destinations 
 
 - 🔹 [**bittatech**](https://github.com/BitwodedSeleshiDemissie/bittatech)  
   *JavaScript, HTML, CSS* – Modern front-end project with interactive UI 💻✨  
