@@ -37,7 +37,7 @@
 ---
 
 ## 🚀 Featured Projects
-- 🔹🔥 [**JARVIS**](https://github.com/BitwodedSeleshiDemissie/JARVIS)  
+- 🔹 [**JARVIS**](https://github.com/BitwodedSeleshiDemissie/JARVIS)  
   *Technologies: Python, AI, Automation* – A personal AI assistant designed to streamline workflows and automate daily tasks. Built with a focus on modularity and intuitive interaction. 🦾🎤
 - 🔹 [**WizFriends/ Startup-currently in stealth mode **](https://github.com/BitwodedSeleshiDemissie/WizFriendsss)  
   *Technologies: React, Node.js, Express, MongoDB, AI* – **WizFriends** is a social discovery platform designed to help users find 'Home' in a new approach  
