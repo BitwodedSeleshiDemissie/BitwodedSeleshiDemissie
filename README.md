@@ -77,7 +77,7 @@
 
 - **GitHub**: [@BitwodedSeleshiDemissie](https://github.com/BitwodedSeleshiDemissie)
 - **LinkedIn**: [BitwodedSeleshiDemissie](https://www.linkedin.com/in/bitwoded-seleshi-demissie-4b9317190/)  
-- **Email**: [bitwoded@example.com](mailto:bitwoded@example.com)
+- **Email**: [bitwodedseleshi@gmail.com](mailto:bitwodedseleshi@gmail.com)
 
 
 ---
